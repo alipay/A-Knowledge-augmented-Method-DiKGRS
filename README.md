@@ -10,7 +10,7 @@ The code has been tested running under Python 3.7.13. The required packages are 
 * pandas == 1.0.0
 
 ## Example to Run the Codes
-* First, make directions for log files:
+* First, make a direction for log files:
 ```bash
 mkdir Logs
 ```
