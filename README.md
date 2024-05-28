@@ -36,5 +36,5 @@ python main_kgat.py --dataset last-fm --add_dvn True --add_pseudo True --num_ps 
 ```bash
 python pseudo_entry_generation.py --dataset [dataset_name]
 ```
-The hyperparameters can refer to the supplementary file of our paper, and can be specify with parsers.
+The hyperparameters can refer to the supplementary file of our paper and can be specified in parsers.
  
